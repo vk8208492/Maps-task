@@ -5,7 +5,7 @@ import app.Product.Product;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class OutPut {
+public class OutPutProduct {
 
     public void getOutput(Map<Integer, Product> map){
         System.out.println("\nALL PRODUCTS: ");

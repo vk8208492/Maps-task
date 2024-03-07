@@ -4,9 +4,9 @@ import java.util.Objects;
 
 public class Product {
 
-    private String name;
-    private String amount;
-    private String price;
+    String name;
+    String amount;
+    String price;
 
     public Product(String name, String amount, String price) {
         this.name = name;

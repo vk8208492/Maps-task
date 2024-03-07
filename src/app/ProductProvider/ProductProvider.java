@@ -22,6 +22,7 @@ public class ProductProvider {
         map.put(154, new Product("carrot","2","16"));
         map.put(155, new Product("orange","2","45"));
         map.put(156, new Product("sour cream","1","19"));
+        map.put(157, new Product("apple", "8","22"));
         return map;
     }
 }
